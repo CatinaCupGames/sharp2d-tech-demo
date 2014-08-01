@@ -1,0 +1,3 @@
+[submodule "Sharp2D"]
+	path = Sharp2D
+	url = https://github.com/CatinaCupGames/Sharp2D.git
